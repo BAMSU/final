@@ -22,9 +22,9 @@
 	
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource">
 	<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
-	<property name="url" value="jdbc:oracle:thin:@localhost:1521:orcl"/>
-	<property name="username" value="scott"/>
-	<property name="password" value="1234"/>
+	<property name="url" value="jdbc:oracle:thin:@yongstudy.iptime.org:9000:orcl"/>
+	<property name="username" value="project03_01"/>
+	<property name="password" value="project03_01"/>
 	</bean>
 	
 	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
