@@ -39,6 +39,8 @@
 	<bean id="sqlSessionTemplate" class="org.mybatis.spring.SqlSessionTemplate">
 	<constructor-arg name="sqlSessionFactory" ref="sqlSessionFactoryBean"/>
 	</bean>
+	
+	<bean id="indexController" class="controller.IndexController" />
 
 	<!-- controller
 	<bean id="helloController" class="yong.controller.HelloController" />
