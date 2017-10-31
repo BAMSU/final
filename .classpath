@@ -34,6 +34,7 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/lib/commons-dbcp-1.4.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
