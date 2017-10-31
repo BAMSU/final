@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>commit Te  s213t</h2>
-<h2>ㅁㄴㅇㄻㅇㄹㄴ</h2>
-<h1>드디어 좀 되어라</h1>
+<h2>테스트테스트</h2>
 </body>
 </html>
